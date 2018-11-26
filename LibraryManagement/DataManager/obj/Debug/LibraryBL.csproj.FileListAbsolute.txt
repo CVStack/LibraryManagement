@@ -1,0 +1,7 @@
+C:\Users\yongin\source\repos\LibraryManagement\DataManager\bin\Debug\DataManager.exe.config
+C:\Users\yongin\source\repos\LibraryManagement\DataManager\bin\Debug\DataManager.exe
+C:\Users\yongin\source\repos\LibraryManagement\DataManager\bin\Debug\DataManager.pdb
+C:\Users\yongin\source\repos\LibraryManagement\DataManager\obj\Debug\LibraryBL.csprojAssemblyReference.cache
+C:\Users\yongin\source\repos\LibraryManagement\DataManager\obj\Debug\LibraryBL.csproj.CoreCompileInputs.cache
+C:\Users\yongin\source\repos\LibraryManagement\DataManager\obj\Debug\DataManager.exe
+C:\Users\yongin\source\repos\LibraryManagement\DataManager\obj\Debug\DataManager.pdb

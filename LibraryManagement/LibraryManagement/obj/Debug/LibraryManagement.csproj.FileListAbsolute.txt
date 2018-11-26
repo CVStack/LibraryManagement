@@ -1,0 +1,16 @@
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojAssemblyReference.cache
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\bin\Debug\DataManager.exe
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\bin\Debug\DataManager.pdb
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\bin\Debug\DataManager.exe.config
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CopyComplete
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.BookForm.resources
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.MainForm.resources
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.UserForm.resources
